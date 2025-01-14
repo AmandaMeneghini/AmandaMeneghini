@@ -3,6 +3,14 @@
 
 ## Seja muito bem-vindo(a) ao meu perfil 😁
 
+<div align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AmandaMeneghini/AmandaMeneghini/refs/heads/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaMeneghini/AmandaMeneghini/refs/heads/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/AmandaMeneghini/AmandaMeneghini/refs/heads/output-3d-contrib/day.svg" />
+	</picture>
+</div>
+
  <div>
    <a href="https://github.com/AmandaMeneghini">
    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=AmandaMeneghini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
