@@ -1,7 +1,7 @@
 
 
 
-## Seja muito bem-vindo(a) ao meu perfil 😁
+## Seja muito bem-vindo(a) ao meu GitHub 😁
 
 <div align="center" >
 	<picture>
@@ -11,15 +11,15 @@
 	</picture>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,figma" />
   </a>
-</p>
+</div>
+<br> 
+<p align="center"><strong>Entre em contato comigo 🤓👇</strong></p>
  
-  ### Minhas Redes Sociais!
- 
-<div>
+<div align="center">
   <a href = "mailto:admcmarshmallow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amanda-meneghini-9b4b22277/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
