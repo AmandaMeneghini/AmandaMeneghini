@@ -10,14 +10,16 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/AmandaMeneghini/AmandaMeneghini/refs/heads/output-3d-contrib/day.svg" />
 	</picture>
 </div>
-
+<br> 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,figma" />
   </a>
 </div>
+
 <br> 
-<p align="center"><strong>Entre em contato comigo 🤓👇</strong></p>
+
+<h2 align="center"><strong>Entre em contato comigo 🤓👇</strong></h2>
  
 <div align="center">
   <a href = "mailto:admcmarshmallow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
