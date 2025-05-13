@@ -16,7 +16,7 @@
 <h2 align="center"><strong>Tecnologias 🛠️</strong></h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jest,figma,typescript,react,vite,styledcomponents,python,c,cs,dotnet,docker,mysql,mongodb,firebase&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jest,figma,typescript,react,vite,styledcomponents,python,c,cs,dotnet,docker,mysql,mongodb,firebase,androidstudio&perline=6" />
   </a>
 </div>
 
