@@ -6,14 +6,14 @@
 <p align="center">
   I'm a Software Developer from Brazil 🇧🇷 with a love for crafting beautiful front-end experiences and, most of all, a passion for untangling tricky problems. If there's a bug to squash or a puzzle to solve, you'll find me diving deep to find a solution!
   <br><br>
-  Fueled by grace and a whole lot of coffee. ✝️☕
+  Fueled by grace and a whole lot of coffee. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" />
   <br><br>
   When I'm not coding, I'm probably exploring the world of <em>The Last of Us</em> or protecting Gotham in <em>Batman: Arkham Knight</em>.
 </p>
 
 ---
 
-### 🚀 What I'm Currently Focused On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
 - Actively studying for the **AWS Certified Cloud Practitioner (CCP)** certification.
 - Building cross-platform apps with **React Native**.
@@ -21,7 +21,7 @@
 
 <br>
 
-<h3 align="center">My Tech Stack & Tools 🛠️</h3>
+<h3 align="center">My Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /></h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,styledcomponents,jest,python,c,cs,dotnet,docker,mysql,mongodb,firebase,figma,androidstudio&perline=6" />
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">My GitHub Journey 🗺️</h3>
+<h3 align="center" justify="center">My GitHub Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> </h3>
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaMeneghini/AmandaMeneghini/refs/heads/output-3d-contrib/night.svg" />
@@ -48,7 +48,7 @@
 
 ---
 
-<h3 align="center">Let's Connect! 📫</h3>
+<h3 align="center">Let's Connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /></h3>
 <p align="center">
   I'm always happy to connect, collaborate on a project, or just chat about tech and games!
 </p>
