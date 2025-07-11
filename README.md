@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZyZzZ5aW9id2dqbzF2eGJkcm9ibXB6Z3Y1Y2NlbWR6end6ZmV2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70" height="70" />
   <h1 align="center">Hi there, I'm Amanda!</h1>
 </div>
 
-<p align="center">
+<p align="right">
   I'm a Software Developer from Brazil 🇧🇷 with a love for crafting beautiful front-end experiences and, most of all, a passion for untangling tricky problems. If there's a bug to squash or a puzzle to solve, you'll find me diving deep to find a solution!
   <br><br>
   Fueled by grace and a whole lot of coffee. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" valign="middle" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" valign="middle" width="20" height="20" />
@@ -15,9 +15,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
-- Actively studying for the **AWS Certified Cloud Practitioner (CCP)** certification.
-- Building cross-platform apps with **React Native**.
-- Diving deeper into **TypeScript** for more robust code.
+- Building **Flowduler**, a fullstack SaaS application using **Next.js, TypeScript, and PostgreSQL**, with a focus on applying Clean Architecture principles and best practices.
+- Strengthening my core CS fundamentals, including **Data Structures & Algorithms** through daily problem-solving, and expanding my cloud knowledge for the **AWS CCP** certification.
 
 <br>
 
