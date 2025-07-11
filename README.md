@@ -15,7 +15,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
-- Building **Flowduler**, a fullstack SaaS application using **Next.js, TypeScript, and PostgreSQL**, with a focus on applying Clean Architecture principles and best practices.
+- Building <img src="assets/flowduler-text.svg" alt="Flowduler Logo" width="70">, a fullstack SaaS application using **Next.js, TypeScript, and PostgreSQL**, with a focus on applying Clean Architecture principles and best practices.
 - Strengthening my core CS fundamentals, including **Data Structures & Algorithms** through daily problem-solving, and expanding my cloud knowledge for the **AWS CCP** certification.
 
 <br>
