@@ -15,20 +15,33 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
-- Building <img src="assets/flowduler-text.svg" alt="Flowduler Logo" width="70">, a fullstack SaaS application using **Next.js, TypeScript, and PostgreSQL**, with a focus on applying Clean Architecture principles and best practices.
-- Strengthening my core CS fundamentals, including **Data Structures & Algorithms** through daily problem-solving, and expanding my cloud knowledge for the **AWS CCP** certification.
+- Building **Flowduler**, a fullstack SaaS application to help small businesses manage appointments. My goal is to apply best practices in a real-world project, focusing on a clean architecture and a great user experience.
+- Deepening my knowledge of **Data Structures & Algorithms** by solving challenges on LeetCode, focusing on common interview patterns.
+- Exploring advanced **TypeScript** features to write even more robust and scalable code.
 
 <br>
 
 <h3 align="center">My Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" valign="middle" width="25" height="25" /></h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,styledcomponents,jest,python,c,cs,dotnet,docker,mysql,mongodb,firebase,figma,androidstudio&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,styledcomponents,jest,python,c,cs,dotnet,docker,mysql,mongodb,firebase,supabase,figma,androidstudio,aws,nextjs&perline=7" />
   </a>
 </div>
 
 <br>
 
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="20" height="20" />
+	Certifications & Achievements
+</h3>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/c905fb2f-8fa6-4497-9af0-bcbcea28eb29/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="150" height="150" />
+  </a>
+</div>
+
+<br>
 <h3 align="center" justify="center">My GitHub Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" valign="middle" width="25" height="25" /> </h3>
 <div align="center">
 	<picture>
