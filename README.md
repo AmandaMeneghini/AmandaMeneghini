@@ -40,6 +40,13 @@
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="150" height="150" />
   </a>
 </div>
+<br>
+<div align="center">
+  <a href="https://www.credly.com/badges/502bbc3d-c174-47d0-8abf-2edd0c2762cf/public_url" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFsGSX1E1xQ2g/profile-treasury-image-shrink_800_800/B4DZjOM97_HYAg-/0/1755806163316?e=1756411200&v=beta&t=vKm8VLrBKvuGhRVMGnkNYfXLvOPrwveNyyLQ76P0AGg" alt="
+Prompt Design in Vertex AI Skill Badge" width="150" />
+  </a>
+</div>
 
 <br>
 <h3 align="center" justify="center">My GitHub Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" valign="middle" width="25" height="25" /> </h3>
