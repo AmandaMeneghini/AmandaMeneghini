@@ -43,7 +43,7 @@
 <br>
 <div align="center">
   <a href="https://www.credly.com/badges/502bbc3d-c174-47d0-8abf-2edd0c2762cf/public_url" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFsGSX1E1xQ2g/profile-treasury-image-shrink_800_800/B4DZjOM97_HYAg-/0/1755806163316?e=1756411200&v=beta&t=vKm8VLrBKvuGhRVMGnkNYfXLvOPrwveNyyLQ76P0AGg" alt="
+    <img src="src/assets/google-vertex-ai-badge.png" alt="
 Prompt Design in Vertex AI Skill Badge" width="150" />
   </a>
 </div>
