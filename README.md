@@ -1,30 +1,29 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70" height="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="70" height="70" />
   <h1 align="center">Hi there, I'm Amanda!</h1>
 </div>
 
 <p align="right">
-  I'm a Software Developer from Brazil 🇧🇷 with a love for crafting beautiful front-end experiences and, most of all, a passion for untangling tricky problems. If there's a bug to squash or a puzzle to solve, you'll find me diving deep to find a solution!
+  I'm a Software Developer from Brazil 🇧🇷. I used to see myself as just a front-end or back-end dev, but I've realized my true passion is being a <strong>problem solver</strong>. Whether it's building a solid Java architecture, crafting an intuitive React interface, or developing Agentic AI solutions in Salesforce, I see technology as a tool to deliver real business value!
   <br><br>
-  Fueled by grace and a whole lot of coffee. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" valign="middle" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" valign="middle" width="20" height="20" />
+  Fueled by grace, a whole lot of coffee, and pão de queijo. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Latin%20Cross.png" alt="Latin Cross" valign="middle" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" valign="middle" width="20" height="20" />
   <br><br>
-  When I'm not coding, I'm probably exploring the world of <em>The Last of Us</em> or protecting Gotham in <em>Batman: Arkham Knight</em>.
+  When I'm not coding, you'll probably find me drawing, playing the drums, or protecting Gotham in <em>Batman: Arkham Knight</em> (and surviving <em>Dandy's World</em>).
 </p>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
-- Building **Flowduler**, a fullstack SaaS application to help small businesses manage appointments. My goal is to apply best practices in a real-world project, focusing on a clean architecture and a great user experience.
-- Deepening my knowledge of **Data Structures & Algorithms** by solving challenges on LeetCode, focusing on common interview patterns.
-- Exploring advanced **TypeScript** features to write even more robust and scalable code.
+- ☁️ **Salesforce & Agentic AI:** Working as a Developer Trainee at Everymind! I'm diving deep into the Salesforce ecosystem (Apex, LWC) and building autonomous AI agents with Agentforce. (Proud to be an Agentblazer Champion 2026 and Expeditioner!).
+- 🧠 **Data Structures & Algorithms:** Continuously sharpening my core logic skills. I recently built a secure routing system from scratch implementing graph algorithms without using native Java Collections!
 
 <br>
 
 <h3 align="center">My Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" valign="middle" width="25" height="25" /></h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,styledcomponents,jest,python,c,cs,dotnet,docker,mysql,mongodb,firebase,supabase,figma,androidstudio,aws,nextjs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,styledcomponents,jest,python,c,cs,dotnet,docker,mysql,mongodb,firebase,supabase,figma,androidstudio,aws,nextjs,java&perline=7" />
   </a>
 </div>
 
