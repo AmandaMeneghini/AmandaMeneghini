@@ -15,7 +15,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Currently Focused On
 
-- ☁️ **Salesforce & Agentic AI:** Working as a Developer Trainee at Everymind! I'm diving deep into the Salesforce ecosystem (Apex, LWC) and building autonomous AI agents with Agentforce. (Proud to be an Agentblazer Champion 2026 and Expeditioner!).
+- ☁️ **Salesforce & Agentic AI:** Working as a Developer Trainee at Everymind! I'm diving deep into the Salesforce ecosystem (Apex, LWC) and building autonomous AI agents with Agentforce. (Proud to be an Agentblazer Innovator 2026 and Ranger!).
 - 🧠 **Data Structures & Algorithms:** Continuously sharpening my core logic skills. I recently built a secure routing system from scratch implementing graph algorithms without using native Java Collections!
 
 <br>
