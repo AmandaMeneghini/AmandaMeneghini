@@ -34,13 +34,17 @@
 	Certifications & Achievements
 </h3>
 
-<div align="center">
+<div align="center" justfy>
   <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Ftrailhead.salesforce.com%2Fen%2Fcredentials%2Fcertification-detail-print%2F%3FsearchString%3Dr4mHthh40OCXTigOHkb2KDZY5VxKbuxiSTJHGPxltJa0tvaUwgOFUY8m0xwK%2BHuR&urlhash=vegP&mt=xXPZCCkV8bP7x-H-AZwvpDqpda2InSNyOxi04mhTvLPEuF-V98hFqeXezLzKMIo5hhUZZnjO0cgDz-GIAelac8Tqi0s0&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BBUCpgBnTuyxoFMnRUszsQ%3D%3D" target="_blank">
   <img src="./src/assets/salesforce-agentforce-specialist- badge.png" width="100">
   </a>
+	&nbsp;
+	&nbsp;
   <a href="https://www.credly.com/badges/c905fb2f-8fa6-4497-9af0-bcbcea28eb29/public_url" target="_blank">
-    <img src="/src/assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="100" />
+    <img src="/src/assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="95" />
   </a>
+	&nbsp;
+	&nbsp;
   <a href="https://www.credly.com/badges/502bbc3d-c174-47d0-8abf-2edd0c2762cf/public_url" target="_blank">
     <img src="src/assets/google-vertex-ai-badge.png" alt="
 Prompt Design in Vertex AI Skill Badge" width="150" />
